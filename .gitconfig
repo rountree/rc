@@ -1,0 +1,11 @@
+[user]
+	name = Barry Rountree
+	email = rountree@llnl.gov
+[core]
+	editor = vim
+[http]
+	sslVerify = off
+[pull]
+	rebase = true
+[init]
+	defaultBranch = main
